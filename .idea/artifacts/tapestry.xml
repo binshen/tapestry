@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="tapestry">
+    <output-path>$PROJECT_DIR$/out/artifacts/tapestry</output-path>
+    <root id="archive" name="tapestry.war" />
+  </artifact>
+</component>
